@@ -1,3 +1,4 @@
+置顶。
 # Sword-pointing-to-offer
 剑指offer java版实现  
 ![](http://img0.winxuan.cn/9704/1200919704_16.jpg?1407748816711)   
